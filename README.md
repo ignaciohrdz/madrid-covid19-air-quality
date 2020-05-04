@@ -6,4 +6,4 @@ On March 13, after the outbreak of COVID-19 in Spain, the central government in 
 
 The aim of this project is to analyse air quality parameters day by day since March 12. I am going to extend this project as much as possible, so I can also observe how long it takes us to get Madrid back to our usual pollution levels. My hope is to provide people with enough data to make them think about the impact of our habits in our environment.
 
-**Update (1 May 2020)**: As I said before, the lock-down is taking longer than expected. However, we are reaching the end of it. Starting from Saturday, May 2, people with be allowed to go for a one-hour-long walk. It is possible that at this point the pollution levels will begin to rise.
+**Update (1 May 2020)**: As I said before, the lock-down is taking longer than expected. However, we are reaching the end of it. Starting from Saturday, May 2, people will be allowed to go for a one-hour-long walk. It is possible that at this point the pollution levels will begin to rise.
